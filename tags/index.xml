@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Araly Zuluaga &amp; Carlos Ortiz | Abogados</title>
-    <link>../zuluagaortiz/tags/</link>
+    <link>/zuluagaortiz/tags/</link>
     <description>Recent content in Tags on Araly Zuluaga &amp; Carlos Ortiz | Abogados</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Jul 2018 12:21:58 +0600</lastBuildDate>
     
-	<atom:link href="../zuluagaortiz/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/zuluagaortiz/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Business</title>
-      <link>../zuluagaortiz/tags/business/</link>
+      <link>/zuluagaortiz/tags/business/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
-      <guid>../zuluagaortiz/tags/business/</guid>
+      <guid>/zuluagaortiz/tags/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inspiration</title>
-      <link>../zuluagaortiz/tags/inspiration/</link>
+      <link>/zuluagaortiz/tags/inspiration/</link>
       <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
       
-      <guid>../zuluagaortiz/tags/inspiration/</guid>
+      <guid>/zuluagaortiz/tags/inspiration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet</title>
-      <link>../zuluagaortiz/tags/internet/</link>
+      <link>/zuluagaortiz/tags/internet/</link>
       <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
       
-      <guid>../zuluagaortiz/tags/internet/</guid>
+      <guid>/zuluagaortiz/tags/internet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motivation</title>
-      <link>../zuluagaortiz/tags/motivation/</link>
+      <link>/zuluagaortiz/tags/motivation/</link>
       <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
       
-      <guid>../zuluagaortiz/tags/motivation/</guid>
+      <guid>/zuluagaortiz/tags/motivation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>../zuluagaortiz/tags/people/</link>
+      <link>/zuluagaortiz/tags/people/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
-      <guid>../zuluagaortiz/tags/people/</guid>
+      <guid>/zuluagaortiz/tags/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>../zuluagaortiz/tags/tech/</link>
+      <link>/zuluagaortiz/tags/tech/</link>
       <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
       
-      <guid>../zuluagaortiz/tags/tech/</guid>
+      <guid>/zuluagaortiz/tags/tech/</guid>
       <description></description>
     </item>
     
