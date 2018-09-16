@@ -12,7 +12,7 @@
     <!-- Mobile Specific Metas -->
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>About Us</title>
+    <title>Sobre Nosotros</title>
     <link rel="icon" href="https://evelynagudeo.github.io/zuluagaortiz/images/favicon.ico">
 
     <link rel="apple-touch-icon" sizes="180x180" href="https://evelynagudeo.github.io/zuluagaortiz/images/apple-touch-icon.png">
@@ -20,6 +20,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="https://evelynagudeo.github.io/zuluagaortiz/images/favicon-16x16.png">
 
     <!-- Twitter Bootstrs CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://evelynagudeo.github.io/zuluagaortiz/plugins/bootstrap/bootstrap.min.css">
     <!-- Ionicons Fonts Css -->
     <link rel="stylesheet" href="https://evelynagudeo.github.io/zuluagaortiz/plugins/ionicons/ionicons.min.css">
@@ -38,6 +39,10 @@
     <link rel="stylesheet" href="https://evelynagudeo.github.io/zuluagaortiz/plugins/hover/hover-min.css">
     <!-- template main css file -->
     <link rel="stylesheet" href="https://evelynagudeo.github.io/zuluagaortiz/css/style.css">
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v3.1.3/mapbox-gl-directions.js'></script>
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v3.1.3/mapbox-gl-directions.css' type='text/css' />
 </head>
 
 <body>
@@ -62,7 +67,7 @@
                             </li>
                             
                             <li class="nav-item">
-                                <a class="nav-link" href="/zuluagaortiz/about">Sobre nosotros</a>
+                                <a class="nav-link" href="/zuluagaortiz/sobre_nosotros">Sobre nosotros</a>
                             </li>
                             
                             <li class="nav-item">
@@ -86,7 +91,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
-                    <h2>About Us</h2>
+                    <h2>Sobre Nosotros</h2>
                     <ol class="breadcrumb list-inline text-center">
                         <li class="list-inline-item">
                             <a href="https://evelynagudeo.github.io/zuluagaortiz/">
@@ -94,7 +99,7 @@
                                 Home &nbsp; &nbsp;/
                             </a>
                         </li>
-                        <li class="active list-inline-item">About Us</li>
+                        <li class="active list-inline-item">Sobre Nosotros</li>
                     </ol>
                 </div>
             </div>
@@ -162,6 +167,91 @@
 <!--  Company Feature Section End -->
 
 
+<!-- Team Section Start -->
+<section id="team">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="subtitle text-center">MEET THE TEAM</h2>
+            </div>
+            
+            <div class="col-md-3">
+                
+                <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="0ms">
+                    
+                    <div class="team-img">
+                        <img src="https://evelynagudeo.github.io/zuluagaortiz/images/team/team-1.jpg" class="team-pic" alt="team-member">
+                    </div>
+                    
+                    <h3 class="team_name">ARALY LUCERO ZULUAGA</h3>
+                    <p class="team_designation">Lawyer</p>
+                    <p class="team_text">She does lawyer things</p>
+                    <p class="social-icons">
+                        
+                        <a href="https://www.fb.com/#" class="facebook" target="_blank">
+                            <i class="ion-social-facebook-outline"></i>
+                        </a>
+                        
+                        
+                        <a href="https://www.twitter.com/#" target="_blank">
+                            <i class="ion-social-twitter-outline"></i>
+                        </a>
+                        
+                        
+                        <a href="https://www.linkedin.com/#" target="_blank">
+                            <i class="ion-social-linkedin-outline"></i>
+                        </a>
+                        
+                        
+                        <a href="https://plus.google.com/#" target="_blank">
+                            <i class="ion-social-googleplus-outline"></i>
+                        </a>
+                        
+                    </p>
+                </div>
+            </div>
+            
+            <div class="col-md-3">
+                
+                <div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">
+                    
+                    <div class="team-img">
+                        <img src="https://evelynagudeo.github.io/zuluagaortiz/images/team/team-2.jpg" class="team-pic" alt="team-member">
+                    </div>
+                    
+                    <h3 class="team_name">ANDRES ORTIZ</h3>
+                    <p class="team_designation">Lawyer</p>
+                    <p class="team_text">She helps Evelyn&#39;s mom</p>
+                    <p class="social-icons">
+                        
+                        <a href="https://www.fb.com/#" class="facebook" target="_blank">
+                            <i class="ion-social-facebook-outline"></i>
+                        </a>
+                        
+                        
+                        <a href="https://www.twitter.com/#" target="_blank">
+                            <i class="ion-social-twitter-outline"></i>
+                        </a>
+                        
+                        
+                        <a href="https://www.linkedin.com/#" target="_blank">
+                            <i class="ion-social-linkedin-outline"></i>
+                        </a>
+                        
+                        
+                        <a href="https://plus.google.com/#" target="_blank">
+                            <i class="ion-social-googleplus-outline"></i>
+                        </a>
+                        
+                    </p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+<!-- Team Section End -->
+
 
 
 
@@ -226,8 +316,11 @@
 </footer>
 <!-- footer section end -->
 
+
+
 <!-- jquery -->
 <script src="https://evelynagudeo.github.io/zuluagaortiz/plugins/jQurey/jquery.min.js"></script>
+
 <!-- Form Validation -->
 <script src="https://evelynagudeo.github.io/zuluagaortiz/plugins/form-validation/jquery.form.js"></script>
 <script src="https://evelynagudeo.github.io/zuluagaortiz/plugins/form-validation/jquery.validate.min.js"></script>
@@ -241,7 +334,7 @@
 <script src="https://evelynagudeo.github.io/zuluagaortiz/plugins/slider/slider.js"></script>
 <!-- Fancybox -->
 <script src="https://evelynagudeo.github.io/zuluagaortiz/plugins/facncybox/jquery.fancybox.js"></script>
-<script src='https://api.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js'></script>
+
 <!-- template main js -->
 <script src="https://evelynagudeo.github.io/zuluagaortiz/js/main.js"></script>
 </body>
