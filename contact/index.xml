@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>contact on Araly Zuluaga &amp; Carlos Ortiz | Abogados</title>
-    <link>/zuluagaortiz/contact/</link>
-    <description>Recent content in contact on Araly Zuluaga &amp; Carlos Ortiz | Abogados</description>
+    <title>Contact on Araly Zuluaga &amp; Carlos Ortiz | Abogados</title>
+    <link>https://evelynagudeo.github.io/zuluagaortiz/contact/</link>
+    <description>Recent content in Contact on Araly Zuluaga &amp; Carlos Ortiz | Abogados</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jul 2018 17:09:20 +0600</lastBuildDate>
     
-	<atom:link href="/zuluagaortiz/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://evelynagudeo.github.io/zuluagaortiz/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
